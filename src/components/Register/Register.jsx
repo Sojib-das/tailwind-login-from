@@ -53,7 +53,7 @@ const Register = () => {
             </div>
 
             <div className="mt-3 text-xs flex justify-between items-center text-[#002D74]">
-              <p>Already have an account ?</p>
+              <p>Already have an account?</p>
               <button className="py-2 px-5 bg-white border rounded-xl hover:scale-110 duration-300">
                 Log in
               </button>
